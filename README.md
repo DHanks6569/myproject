@@ -1,3 +1,3 @@
 # myproject
 My portfolio repository
-This is a simple website I created just to pass away a little time. I plan to add a few things later.
+Started out with a couple of small sites I made for practice and to give me something to show. I will be adding more styles and JavaScript to them soon as I can. Any constructive feed back and advice will be greatly appreciated as I am new to freelancing. Thanks in advance. 
